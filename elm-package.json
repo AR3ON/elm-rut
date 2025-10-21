@@ -1,7 +1,7 @@
 {
     "version": "1.0.1",
     "summary": "elm-rut based on korutx/elm-rut for Elm 0.18",
-    "repository": "https://github.com/leonardanyer/elm-rut.git",
+    "repository": "https://github.com/AR3ON/elm-rut.git",
     "license": "BSD3",
     "source-directories": [
         "src"
